@@ -1,15 +1,15 @@
 # Credit Card Fraud Detection
 
-This project uses **unsupervised learning** techniques to detect credit card fraud, using a dataset of credit card transactions. The goal is to identify anomalous patterns in the data that could indicate fraud.
+This project uses **supervised learning** techniques to detect credit card fraud, utilizing a dataset of credit card transactions. The goal is to identify fraudulent transactions based on labeled data.
 
 ## Project Description
 
-In this project, **unsupervised learning** is applied to detect fraud in credit card transactions. Instead of having pre-labeled fraud data, clustering and anomaly detection algorithms are used to identify suspicious transactions.
+In this project, **supervised learning** is applied to detect fraud in credit card transactions. The dataset includes labeled transactions, with each transaction being classified as either fraudulent(1) or legitimate(0). Machine learning algorithms are used to train a model to predict this target.
 
 ### Objectives:
-- Detect fraudulent transactions based on anomalous patterns.
+- Classify transactions as fraudulent or legitimate.
 - Apply data preprocessing techniques.
-- Implement an unsupervised model for fraud detection using **K-means**, **Isolation Forest**, among others.
+- Implement supervised learning models for fraud detection, including algorithms like **Logistic Regression**, **Random Forest**, and **XGBoost**.
 
 ## Technologies Used
 
