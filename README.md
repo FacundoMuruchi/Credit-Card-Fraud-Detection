@@ -19,3 +19,7 @@ In this project, **supervised learning** is applied to detect fraud in credit ca
 - **Matplotlib / Seaborn**: For data visualization.
 - **Numpy**: For handling arrays and mathematical operations.
 - **Jupyter Notebook**: For interactive code exploration.
+
+## DataSet
+
+Kaggle: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
